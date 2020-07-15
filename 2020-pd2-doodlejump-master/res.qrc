@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/bat1.png</file>
+        <file>res/bullet.png</file>
+        <file>res/cap.png</file>
+        <file>res/cap1.png</file>
+        <file>res/cap2.png</file>
+        <file>res/cap3.png</file>
+        <file>res/doodle_left.png</file>
+        <file>res/doodle_right.png</file>
+        <file>res/doodleshoot.png</file>
+        <file>res/gameback.jpg</file>
+        <file>res/gameoverback.png</file>
+        <file>res/hole.png</file>
+        <file>res/menuback.jpg</file>
+        <file>res/pauseback.jpg</file>
+        <file>res/p-blue.png</file>
+        <file>res/p-green.png</file>
+        <file>res/play.png</file>
+        <file>res/resume.png</file>
+        <file>res/r_left.png</file>
+        <file>res/rocket.png</file>
+        <file>res/r_right.png</file>
+        <file>res/topbar.png</file>
+        <file>res/background.mp3</file>
+        <file>res/click.mp3</file>
+        <file>res/jump.mp3</file>
+        <file>res/cap.wav</file>
+        <file>res/rocket.wav</file>
+        <file>res/DoodleJump.ttf</file>
+    </qresource>
+</RCC>
